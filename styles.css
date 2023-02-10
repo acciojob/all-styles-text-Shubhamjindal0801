@@ -1,10 +1,14 @@
-.all{
-    width:200px;
-    background-color: purple;
+.a{
+	width:200px;
+	background-color: purple;
     border-left-color: green;
     border-left-width: 5px;
 	border-left-style:solid;
     padding:10px;
     text-size-adjust:20px;
     color:white;
+}
+.all{
+    width:400px;
+    
 }
